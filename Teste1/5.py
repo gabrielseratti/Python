@@ -11,4 +11,5 @@ def likes(names):
     elif len(array_names) == 4:
         return f'{array_names[0]}, {array_names[1]} and {len(array_names)-2} others like this'    
     return array_names
-print(likes('String'))
+
+print(likes('String'))git remote add origin https://github.com/gabrielseratti/Python
